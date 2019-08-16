@@ -58,7 +58,6 @@ both the server and the redis implementation to make asynchronous Redis calls.
     ...
     
     "apisearch-io/react-symfony-server": "dev-master@dev",
-    "apisearch-io/react-symfony-server": "dev-master@dev",
     "clue/redis-react": "*"
 },
 ```
